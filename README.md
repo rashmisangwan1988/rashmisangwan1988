@@ -1,6 +1,7 @@
+![logo](https://github.com/rashmisangwan1988/rashmisangwan1988/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rashmi</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<img align="right"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPVDQs23MNs_N669Si0zclwDtCozyfcvdJQ&usqp=CAU">
+<img align="right"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjnFZxwYfWOOfXe7xIIod03aVTGzfQhPH5g&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmisangwan1988&label=Profile%20views&color=0e75b6&style=flat" alt="rashmisangwan1988" /> </p>
 
